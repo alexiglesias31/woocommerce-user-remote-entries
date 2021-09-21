@@ -1,0 +1,26 @@
+.wcure-user-settings-list {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+}
+.wcure-user-settings-list-item {
+    display: flex;
+    border: 1px solid;
+    padding: 1.12rem;
+    padding: 0.3rem 1.12rem;
+}
+.wcure-user-settings-list-item-value {
+    margin: 0;
+}
+
+.wcure-remote-entries-title {
+    text-decoration: underline;
+    font-weight: 600;
+    margin: 0;
+}
+.wcure-remote-entries-list {
+    list-style: none;
+}
+.wcure-remote-entries-item-title {
+    font-weight: 600;
+}
